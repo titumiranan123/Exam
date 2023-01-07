@@ -105,7 +105,7 @@ section {
 
 .last-section {
     margin: 102px 0 0 0;
-    background-image: url(/image/watch.png);
+    background-image: url(../image/watch.png);
     background-blend-mode: multiply;
     height: 300px;
 }
